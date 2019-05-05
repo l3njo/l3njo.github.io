@@ -1,0 +1,65 @@
+---
+title: "What programming language to use for: Web Development"
+---
+Previously published on <a target="_blank" rel="noopener" href="https://kadhalikatech.wordpress.com/2019/02/09/which-programming-languages-to-use-part-1-web-development/">TechNaKadhalika</a>
+<br><br>
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Give a man a program, frustrate him for a day.</p><p> Teach a man to program, frustrate him for a lifetime. </p><cite> Muhammad Waseem </cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:image {"id":90} -->
+<figure class="wp-block-image"><img src="https://kadhalikatech.files.wordpress.com/2019/02/web-development-t.jpg" alt="" class="wp-image-90"/><figcaption>Image courtesy 1&amp;1 IONOS</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>When it comes to programming, the choice of tools is just as important to the job as the development state itself. This is why I have compiled a list of what programming languages you would want to use for what jobs. This part specifically covers languages uses in web development. Web Development comes in two parts. Front-end and back-end web development. Each has its own set of tools and languages</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 id="mce_4"><strong>Front-end web development</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>In terms of markup languages, <strong>HTML </strong>is by far the most popular choice for webpages. Its most recent iteration, HTML5, seeks to unify the markup standards. It is developed and maintained by the W3C and WHATWG. <strong>XML</strong>, also developed by the W3C is a markup language that is designed to be both human and machine readable. It can also be used as a lightweight form of storing data. <strong>Markdown </strong>is an upcoming format that is worth a mention. Its design allows output to be converted to numerous formats, e.g. HTML.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p> Styling is an important element of front-end web development and, as such, it has its tools. <strong>CSS</strong> is by far the easiest to learn and implement, and being developed in part by the W3C, it has a lot of support going forward. <strong>XSL</strong>, also developed by the W3C, is not as well known. It is a stylesheet language designed to transform XML documents. <strong>SASS</strong> is another great choice. It is a preprocessor sripting language that is interpreted or compiled into CSS, adding a dynamic element to it. <strong>LESS</strong>, influenced by SASS, also takes the preprocessor approach to styling pages. Like SASS, it is extensible by a javascript plugin.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>It's CSS, with just a little more.</p><cite> https://www.lesscss.org</cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>Speaking of <strong>JavaScript</strong>, let's discuss scripting languages, which are responsible for handling the behaviour of a webpage. As of the time of writing, javascript was still the <a rel="noreferrer noopener" aria-label="most popular programming language in the world (opens in a new tab)" href="https://kadhalika.tech.blog/2019/02/02/most-popular-programming-languages/" target="_blank">most popular programming language in the world</a>. Microsoft's <strong>TypeScript</strong> adds optional static typing to javascript, and transcompilese to javascript, while Google's <strong>Dart</strong> is a general purpose language that not only does web applications, but server, desktop and mobile apps as well. The less known <strong>CoffeeScript</strong> is, in its developers own words;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>An attempt to expose the good parts of JavaScript in a simple way.</p><cite>https://www.coffeescript.org</cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>CoffeeScript compiles directly into JavaScript and all libraries are usable with each other.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 id="mce_18"><strong>Back-end web development</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>PHP</strong> is a language that has been around for a while, having debuted in the mid-1990s. It remains the most used language for web development and is, for this reason alone, a must know languaage for web developers, especially when coupled with frameworks like Laravel. Although <strong>Java</strong> wasn't developed specifically for web development, many still consider it one of the best web languages to use, especially since most developers already know it. A big advantage is that the team doesn't have to learn a new language for a new project. <strong>Go</strong> is a relative newcomer to the scene, but already has a huge following. It is a top choice for building high-performance apps, as it was designed to take advantage of parallel processing. This list would not be complete without a mention of <strong>Ruby on Rails</strong>, useful in building server-side applications quickly. Ruby and, by extension, Ruby on Rails skills are a valuable asset in the web-development industry, <a rel="noreferrer noopener" aria-label="according to the Tiobe index (opens in a new tab)" href="https://www.tiobe.com/tiobe-index/" target="_blank">according to the Tiobe index. </a>While <strong>Python</strong> itself wasn't designed with web development in mind, frameworks like Django adapt it to the purpose. However, one trait sets it apart from most of the languages on this list. Like Java, it is a language that lends itself to many use cases and thus can be used in a broad variety of contexts. <strong>JavaScript</strong> has also moved into the world of server-side programming via Node.js. The two are not quite as extensible as, say, python. But, put together, they cover almost every web-related programming use case you might find, front-end and back. As you journey through the world of programming, remember these wise words;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Always write your code as if the guy who ends up mainntaining your code will be a violent psychopth who knows where you live.</p><cite>John Woods</cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Conclusion</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is by no means a ranking of best programming languages, but rather more of a quick-start guide for say, someone who wishes to get into application development but is stumped on where to start. There is no single best language, <a rel="noreferrer noopener" aria-label="as I said last week (opens in a new tab)" href="https://kadhalika.tech.blog/2019/02/02/most-popular-programming-languages/" target="_blank">as I said last week</a>.</p>
+<!-- /wp:paragraph -->
