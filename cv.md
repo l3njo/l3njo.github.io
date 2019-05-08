@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
-## Peter Lenjo
-### Curriculum Vitae
-___
+## Peter Lenjo  
+### Curriculum Vitae  
+___  
+
