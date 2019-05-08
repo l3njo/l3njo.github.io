@@ -34,13 +34,13 @@
         {{ user.location }}
       </div>
     {% endif %}
-    <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
-        {% octicon file height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Location %}
-        {{ user.location }}
-        <a href="cv" {% if site.style == 'dark' %}class="text-white"{% endif %}>
-          Curriculum Vitae
-        </a>
-    </div>
+    {% if site.social_media.cv %}
+        <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
+            {% octicon file height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Location %}
+            <a href="cv" {% if site.style == 'dark' %}class="text-white"{% endif %}>
+             Curriculum Vitae
+            </a>
+        </div>
     {% if site.social_media %}
       <div class="d-flex flex-wrap flex-items-start {% if site.layout == 'stacked' %}flex-justify-center mt-1 mt-md-3{% endif %}">
         {% for account in site.social_media %}
