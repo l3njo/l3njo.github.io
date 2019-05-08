@@ -43,8 +43,9 @@ social_media:
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  website: "https://l3njo.github.io/cv"
+  # website: "https://l3njo.github.io"
   # youtube: your_username
+  cv: "https://l3njo.github.io/cv"
 
 topics:
   - name: C#
