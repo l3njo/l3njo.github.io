@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<h2>Peter Lenjo</h2>
-<h3> Curriculum Vitae</h3>
+<h2>Peter Lenjo Mghendi</h2>
+<h4> Curriculum Vitae</h4>
 <hr>  
 
 
