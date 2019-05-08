@@ -34,7 +34,7 @@
         {{ user.location }}
       </div>
     {% endif %}
-    {% if site.social_media.cv %}
+    {% if site.cv %}
         <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
             {% octicon file height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Location %}
             <a href="cv" {% if site.style == 'dark' %}class="text-white"{% endif %}>
