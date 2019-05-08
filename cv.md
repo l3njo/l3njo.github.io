@@ -2,4 +2,4 @@
 layout: default
 ---
 
-#Curriculum Vitae
+# Curriculum Vitae
