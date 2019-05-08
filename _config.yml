@@ -28,6 +28,7 @@ projects:
     # - repo-name
       _ GeekTest
     
+cv: "https://l3njo.github.io/cv"
 
 social_media:
   # behance: your_username
@@ -45,7 +46,6 @@ social_media:
   # vk: your_username
   website: "https://l3njo.github.io/cv"
   # youtube: your_username
-  # cv: "https://l3njo.github.io/cv"
 
 topics:
   - name: C#
