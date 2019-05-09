@@ -2,128 +2,152 @@
 layout: default
 ---
 
-**MGHENDI PETER LENJO**
+<p>MGHENDI PETER LENJO </p>
 
-CURRICULUM VITAE
+<p>CURRICULUM VITAE</p>
 
-**CONTACT INFORMATION**
+<p>CONTACT INFORMATION</p>
 
-Address:         P. O. Box 1125 – 30100, Eldoret-Kenya
+<p>Address: P. O. Box 1125 – 30100, Eldoret-Kenya</p>
 
-Phone:                +254 798 567 790
+<p>Phone: +254 798 567 790</p>
 
-E-mail:                [plenjo15@gmail.com](mailto:plenjo15@gmail.com)
+<p>E-mail: <a href="mailto:plenjo15@gmail.com">plenjo15@gmail.com</a></p>
 
-**PERSONAL INFORMATION**
+<p>PERSONAL INFORMATION</p>
 
-Date of birth:                 5th March 1999
+<p>Date of birth: 5<sup>th</sup> March 1999</p>
 
-Gender:                 Male
+<p>Gender: Male</p>
 
-Marital Status:         Single
+<p>Marital Status: Single</p>
 
-Citizenship:                 Kenyan
+<p>Citizenship: Kenyan</p>
 
-**PROFILE**
+<p>PROFILE</p>
 
-I am an individual committed to learning, passionate about science and computing in general, especially programming as a sub-field. Also great at working as part of a team.
+<p>I am an individual committed to learning, passionate about science and computing in general, especially programming as a sub-field. Also great at working as part of a team.</p>
 
-**ACADEMIC BACKGROUND**
+<p>ACADEMIC BACKGROUND</p>
 
-2017 to date: **Bachelor of Science in Computer Science**
+<p>2017 to date: Bachelor of Science in Computer Science</p>
 
-_Maseno University, Kisumu, Kenya._
+<p>Maseno University, Kisumu, Kenya.</p>
 
-2013 to 2016: **Kenya Certificate of Secondary Education (KCSE)**
+<p>2013 to 2016: Kenya Certificate of Secondary Education (KCSE)</p>
 
-_Booker Academy, Mumias, Kenya._
+<p>Booker Academy, Mumias, Kenya.</p>
 
-_       _ Mean Grade B+ (plus)
+<p>Mean Grade B+ (plus)</p>
 
-2005 to 2012: **Kenya Certificate of Primary Education (KCPE)**
+<p>2005 to 2012: Kenya Certificate of Primary Education (KCPE)</p>
 
-_Testimony Primary School, Eldoret, Kenya._
+<p>Testimony Primary School, Eldoret, Kenya.</p>
 
-_       _ Mean Grade A- (minus)
+<p>Mean Grade A- (minus)</p>
 
-**PROFESSIONAL QUALIFICATIONS AND SEMINARS**
+<p>PROFESSIONAL QUALIFICATIONS AND SEMINARS</p>
 
-15th to 19th April 2019: **Ajira Digital Training**
+<p>15th to 19th April 2019: Ajira Digital Training</p>
 
-_Maseno University, Kisumu, Kenya_
+<p>Maseno University, Kisumu, Kenya</p>
 
-Week long training on using online work platforms profitably.
+<p>Week long training on using online work platforms profitably.</p>
 
-23rd Feb 2019: **Atlassian Team Collaboration Tools and Practices**
+<p>23rd Feb 2019: Atlassian Team Collaboration Tools and Practices</p>
 
-_LakeHub, Kisumu, Kenya_
+<p>LakeHub, Kisumu, Kenya</p>
 
-Single day seminar on how to better team collaboration using Atlassian tools.
+<p>Single day seminar on how to better team collaboration using Atlassian tools.</p>
 
-July 2017 – August 2017: **Python Programming Course**
+<p>July 2017 – August 2017: Python Programming Course</p>
 
-_D2i College, Eldoret, Kenya_
+<p>D2i College, Eldoret, Kenya</p>
 
-Two-month Python 3 Training Course and Testing at d2i College in Eldoret.
+<p>Two-month Python 3 Training Course and Testing at d2i College in Eldoret.</p>
 
-January 2017 – May 2017: **MIT Programming Course**
+<p>January 2017 – May 2017: MIT Programming Course</p>
 
-_eMobilis College, Nairobi, Kenya_
+<p>eMobilis College, Nairobi, Kenya</p>
 
-Four-month Web and Android application development training and testing, including: HTML5, CSS3, JavaScript, PHP7 and Java 8 at eMobilis College in Nairobi.
+<p>Four-month Web and Android application development training and testing, including: HTML5, CSS3, JavaScript, PHP7 and Java 8 at eMobilis College in Nairobi.</p>
 
-**TECHNICAL SKILLS**
+<p>TECHNICAL SKILLS</p>
 
-- PHP/Laravel in backend web application design.
-- HTML, CSS and JavaScript in front-end web design.
-- Java, Kotlin and XML in Android application development.
-- MySQL and SQLite for database design and development.
-- Firebase platform for real-time online databases and analytics.
-- JavaFX, Swing and Python Tkinter in desktop GUI development.
+<p>· PHP/Laravel in backend web application design.</p>
 
-**VOLUNTARY AND COMMUNITY INVOLVEMENT**
+<p>· HTML, CSS and JavaScript in front-end web design.</p>
 
-- September 2015: Volunteer, Divine Providence Children&#39;s Home, Kakamega.
-- May 2015: Volunteer, St. Mary&#39;s Mission Hospital, Bungoma.
+<p>· Java, Kotlin and XML in Android application development.</p>
 
-**LANGUAGES**
+<p>· MySQL and SQLite for database design and development.</p>
 
-|   | _Speaking_ | _Writing_ |
-| --- | --- | --- |
-| English | Excellent | Excellent |
-| Kiswahili | Very Good | Very Good |
+<p>· Firebase platform for real-time online databases and analytics.</p>
 
-**HOBBIES**
+<p>· JavaFX, Swing and Python Tkinter in desktop GUI development.</p>
 
-- Cycling and swimming.
-- Reading scientific and technological journals and keeping up with advancements in both fields.
-- Programming and solving mathematical and logical problems.
--
+<p>VOLUNTARY AND COMMUNITY INVOLVEMENT</p>
 
-**REFEREES**
+<p>· September 2015: Volunteer, Divine Providence Children’s Home, Kakamega.</p>
 
-1. **1.** Edwin Kabeyi
+<p>· May 2015: Volunteer, St. Mary’s Mission Hospital, Bungoma.</p>
 
-Lecturer, Object Oriented Programming,
+<p>LANGUAGES </p>
 
-d2i College,
+<table cellspacing="0" cellpadding="8" ><colgroup><col ><col ><col ></colgroup>
+<tbody>
+<tr ><td valign="top" ></td>
+<td valign="top" ><p>Speaking</p></td>
+<td valign="top" ><p>Writing</p></td>
+</tr>
 
-Eldoret,
+<tr ><td valign="top" ><p>English</p></td>
+<td valign="top" ><p>Excellent</p></td>
+<td valign="top" ><p>Excellent</p></td>
+</tr>
 
-Kenya.
+<tr ><td valign="top" ><p>Kiswahili</p></td>
+<td valign="top" ><p>Very Good</p></td>
+<td valign="top" ><p>Very Good</p></td>
+</tr>
 
-+254 705 357 406
+</tbody>
+</table>
 
-[edwin.edwink.kabeyi@gmail.com](mailto:edwin.edwink.kabeyi@gmail.com)
+<p>HOBBIES</p>
 
-1. **2.**  Mr. Walter
+<p>· Cycling and swimming.</p>
 
- Lecturer,
+<p>· Reading scientific and technological journals and keeping up with advancements in both fields.</p>
 
- eMobilis Mobile Technology Institute,
+<p>· Programming and solving mathematical and logical problems.</p>
 
- Nairobi,
+<p>· Travelling.</p>
 
- Kenya.
+<p>REFEREES </p>
 
- walter@emobilis.ac.ke
+<p>1. Mr. Edwin Kabeyi</p>
+
+<p>Lecturer, Object Oriented Programming,</p>
+
+<p>d2i College,</p>
+
+<p>Eldoret,</p>
+
+<p>Kenya.</p>
+
+<p>+254 705 357 406</p>
+
+<p><a href="mailto:edwin.edwink.kabeyi@gmail.com">edwin.edwink.kabeyi@gmail.com</a></p>
+
+<p>2. Mr. Walter</p>
+
+<p>Lecturer,</p>
+
+<p>eMobilis Mobile Technology Institute,</p>
+
+<p>Nairobi,</p>
+
+<p>Kenya.</p>
+
+<p>walter@emobilis.ac.ke</p>
