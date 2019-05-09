@@ -10,11 +10,11 @@ layout: default
 
 <h4>CONTACT INFORMATION</h4><hr>
 
-<p>Address: P. O. Box 1125 – 30100, Eldoret-Kenya</p>
+<p>Address:&#9; P. O. Box 1125 – 30100, Eldoret-Kenya</p>
 
-<p>Phone: +254 798 567 790</p>
+<p>Phone:&#9; +254 798 567 790</p>
 
-<p>E-mail: <a href="mailto:plenjo15@gmail.com">plenjo15@gmail.com</a></p>
+<p>E-mail:&#9; <a href="mailto:plenjo15@gmail.com">plenjo15@gmail.com</a></p>
 
 <br>
 
