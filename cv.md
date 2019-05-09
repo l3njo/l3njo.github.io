@@ -10,11 +10,11 @@ layout: default
 
 <h4>CONTACT INFORMATION</h4><hr>
 
-<p>Address:&#9; P. O. Box 1125 – 30100, Eldoret-Kenya</p>
+<p>Address: P. O. Box 1125 – 30100, Eldoret-Kenya</p>
 
-<p>Phone:&#9; +254 798 567 790</p>
+<p>Phone: +254 798 567 790</p>
 
-<p>E-mail:&#9; <a href="mailto:plenjo15@gmail.com">plenjo15@gmail.com</a></p>
+<p>E-mail: <a href="mailto:plenjo15@gmail.com">plenjo15@gmail.com</a></p>
 
 <br>
 
@@ -38,19 +38,23 @@ layout: default
 
 <h4>ACADEMIC BACKGROUND</h4><hr>
 
-<p>2017 to date: Bachelor of Science in Computer Science</p>
+<p>2017 to date: <strong>Bachelor of Science in Computer Science</strong></p>
 
-<p>Maseno University, Kisumu, Kenya.</p>
+<p><em>Maseno University, Kisumu, Kenya.</em></p>
 
-<p>2013 to 2016: Kenya Certificate of Secondary Education (KCSE)</p>
+<br>
 
-<p>Booker Academy, Mumias, Kenya.</p>
+<p>2013 to 2016: <strong>Kenya Certificate of Secondary Education (KCSE)</strong></p>
+
+<p><em>Booker Academy, Mumias, Kenya.</em></p>
 
 <p>Mean Grade B+ (plus)</p>
 
-<p>2005 to 2012: Kenya Certificate of Primary Education (KCPE)</p>
+<br>
 
-<p>Testimony Primary School, Eldoret, Kenya.</p>
+<p>2005 to 2012: <strong>Kenya Certificate of Primary Education (KCPE)</strong></p>
+
+<p><em>Testimony Primary School, Eldoret, Kenya.</em></p>
 
 <p>Mean Grade A- (minus)</p>
 
@@ -58,27 +62,33 @@ layout: default
 
 <h4>PROFESSIONAL QUALIFICATIONS AND SEMINARS</h4><hr>
 
-<p>15th to 19th April 2019: Ajira Digital Training</p>
+<p>15th to 19th April 2019: <strong>Ajira Digital Training</strong></p>
 
-<p>Maseno University, Kisumu, Kenya</p>
+<p><em>Maseno University, Kisumu, Kenya</em></p>
 
 <p>Week long training on using online work platforms profitably.</p>
 
-<p>23rd Feb 2019: Atlassian Team Collaboration Tools and Practices</p>
+<br>
 
-<p>LakeHub, Kisumu, Kenya</p>
+<p>23rd Feb 2019: <strong>Atlassian Team Collaboration Tools and Practices</strong></p>
+
+<p><em>LakeHub, Kisumu, Kenya</em></p>
 
 <p>Single day seminar on how to better team collaboration using Atlassian tools.</p>
 
-<p>July 2017 – August 2017: Python Programming Course</p>
+<br>
 
-<p>D2i College, Eldoret, Kenya</p>
+<p>July 2017 – August 2017: <strong>Python Programming Course</strong></p>
+
+<p><em>D2i College, Eldoret, Kenya</em></p>
 
 <p>Two-month Python 3 Training Course and Testing at d2i College in Eldoret.</p>
 
-<p>January 2017 – May 2017: MIT Programming Course</p>
+<br>
 
-<p>eMobilis College, Nairobi, Kenya</p>
+<p>January 2017 – May 2017: <strong>MIT Programming Course</strong></p>
+
+<p><em>eMobilis College, Nairobi, Kenya</em></p>
 
 <p>Four-month Web and Android application development training and testing, including: HTML5, CSS3, JavaScript, PHP7 and Java 8 at eMobilis College in Nairobi.</p>
 
