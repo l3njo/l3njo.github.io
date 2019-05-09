@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<p>MGHENDI PETER LENJO </p>
+<h2>MGHENDI PETER LENJO</h2>
 
-<p>CURRICULUM VITAE</p>
+<h4>CURRICULUM VITAE</h4><hr>
 
-<p>CONTACT INFORMATION</p>
+<h4>CONTACT INFORMATION</h4><hr>
 
 <p>Address: P. O. Box 1125 – 30100, Eldoret-Kenya</p>
 
@@ -14,7 +14,7 @@ layout: default
 
 <p>E-mail: <a href="mailto:plenjo15@gmail.com">plenjo15@gmail.com</a></p>
 
-<p>PERSONAL INFORMATION</p>
+<h4>PERSONAL INFORMATION</h4><hr>
 
 <p>Date of birth: 5<sup>th</sup> March 1999</p>
 
@@ -24,11 +24,11 @@ layout: default
 
 <p>Citizenship: Kenyan</p>
 
-<p>PROFILE</p>
+<h4>PROFILE</h4><hr>
 
 <p>I am an individual committed to learning, passionate about science and computing in general, especially programming as a sub-field. Also great at working as part of a team.</p>
 
-<p>ACADEMIC BACKGROUND</p>
+<h4>ACADEMIC BACKGROUND</h4><hr>
 
 <p>2017 to date: Bachelor of Science in Computer Science</p>
 
@@ -46,7 +46,7 @@ layout: default
 
 <p>Mean Grade A- (minus)</p>
 
-<p>PROFESSIONAL QUALIFICATIONS AND SEMINARS</p>
+<h4>PROFESSIONAL QUALIFICATIONS AND SEMINARS</h4><hr>
 
 <p>15th to 19th April 2019: Ajira Digital Training</p>
 
@@ -72,7 +72,7 @@ layout: default
 
 <p>Four-month Web and Android application development training and testing, including: HTML5, CSS3, JavaScript, PHP7 and Java 8 at eMobilis College in Nairobi.</p>
 
-<p>TECHNICAL SKILLS</p>
+<h4>TECHNICAL SKILLS</h4><hr>
 
 <p>· PHP/Laravel in backend web application design.</p>
 
@@ -86,13 +86,13 @@ layout: default
 
 <p>· JavaFX, Swing and Python Tkinter in desktop GUI development.</p>
 
-<p>VOLUNTARY AND COMMUNITY INVOLVEMENT</p>
+<h4>VOLUNTARY AND COMMUNITY INVOLVEMENT</h4><hr>
 
 <p>· September 2015: Volunteer, Divine Providence Children’s Home, Kakamega.</p>
 
 <p>· May 2015: Volunteer, St. Mary’s Mission Hospital, Bungoma.</p>
 
-<p>LANGUAGES </p>
+<h4>LANGUAGES</h4><hr>
 
 <table cellspacing="0" cellpadding="8" ><colgroup><col ><col ><col ></colgroup>
 <tbody>
@@ -114,7 +114,7 @@ layout: default
 </tbody>
 </table>
 
-<p>HOBBIES</p>
+<h4>HOBBIES</h4><hr>
 
 <p>· Cycling and swimming.</p>
 
@@ -124,7 +124,7 @@ layout: default
 
 <p>· Travelling.</p>
 
-<p>REFEREES </p>
+<h4>REFEREES</h4><hr>
 
 <p>1. Mr. Edwin Kabeyi</p>
 
@@ -150,4 +150,4 @@ layout: default
 
 <p>Kenya.</p>
 
-<p>walter@emobilis.ac.ke</p>
+<p><a href="mailto:walter@emobilis.ac.ke">walter@emobilis.ac.ke</a></p>
