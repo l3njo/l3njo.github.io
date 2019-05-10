@@ -190,13 +190,13 @@ layout: default
 
 <div>
 
-<a class="btn btn-outline hover-grow" href="https://drive.google.com/file/d/1dvPu3ZzvT4g0Cl6fpZxivCv5r1CMPMAc/view?usp=drivesdk" style="color: blue;">
-  <i class="fas fa-file-word anim-pulse"></i>
+<a class="btn btn-outline hover-grow" href="https://drive.google.com/file/d/1dvPu3ZzvT4g0Cl6fpZxivCv5r1CMPMAc/view?usp=drivesdk" style="color: #00A4EF;">
+  <i class="fas fa-file-word mr-3 anim-pulse"></i>
   Download DOCX
 </a> 
 
-<a class="btn btn-danger hover-grow" href="https://drive.google.com/file/d/1LPo9dmzMPTQXl8A5odIPzr1PN8LKY58N/view?usp=drivesdk" style="color: red;">
-  <i class="fas fa-file-pdf anim-pulse"></i>
+<a class="btn btn-danger hover-grow" href="https://drive.google.com/file/d/1LPo9dmzMPTQXl8A5odIPzr1PN8LKY58N/view?usp=drivesdk" style="color: #FF0000;">
+  <i class="fas fa-file-pdf mr-3 anim-pulse"></i>
   Download PDF
 </a> 
 
