@@ -189,12 +189,12 @@ layout: default
 <div>
 
 <a class="btn bg-blue" href="#">
-  {% octicon file height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:CV %}
+  <span class="octicon octicon-file-pdf"></span>
   Download
 </a> 
 
 <a class="btn bg-red" href="#">
-  {% octicon file-pdf height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:CV %}
+  <span class="octicon octicon-file-pdf"></span>
   Download
 </a> 
 
