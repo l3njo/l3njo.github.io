@@ -186,15 +186,17 @@ layout: default
 
 <p><a href="mailto:walter@emobilis.ac.ke">walter@emobilis.ac.ke</a></p>
 
+<br>
+
 <div>
 
-<a class="btn hover-grow" href="#" style="background-color: #0366d6">
-  <i class="fas fa-file-word"></i>
+<a class="btn btn-outline hover-grow" href="https://drive.google.com/file/d/1dvPu3ZzvT4g0Cl6fpZxivCv5r1CMPMAc/view?usp=drivesdk" style="color: blue;">
+  <i class="fas fa-file-word anim-pulse"></i>
   Download DOCX
 </a> 
 
-<a class="btn hover-grow" href="#" style="background-color: #d73a49">
-  <i class="fas fa-file-pdf"></i>
+<a class="btn btn-danger hover-grow" href="https://drive.google.com/file/d/1LPo9dmzMPTQXl8A5odIPzr1PN8LKY58N/view?usp=drivesdk" style="color: red;">
+  <i class="fas fa-file-pdf anim-pulse"></i>
   Download PDF
 </a> 
 
