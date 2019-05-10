@@ -188,14 +188,14 @@ layout: default
 
 <div>
 
-<a class="btn bg-blue" href="#">
+<a class="btn hover-grow" href="#" style="background-color: #0366d6">
   <i class="fas fa-file-word"></i>
-  Download
+  Download DOCX
 </a> 
 
-<a class="btn bg-red" href="#">
+<a class="btn hover-grow" href="#" style="background-color: #d73a49">
   <i class="fas fa-file-pdf"></i>
-  Download
+  Download PDF
 </a> 
 
 </div>
