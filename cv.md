@@ -121,9 +121,9 @@ layout: default
 <table>
 <thead>
 <tr>
-<th></th>
-<th><p>Speaking</p></th>
-<th><p>Writing</p></th>
+<th class="p-responsive"></th>
+<th class="p-responsive"><p>Speaking</p></th>
+<th class="p-responsive"><p>Writing</p></th>
 </tr>
 
 </thead>
