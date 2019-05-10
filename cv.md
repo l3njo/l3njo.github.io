@@ -10,9 +10,15 @@ layout: default
 
 <h4>CONTACT INFORMATION</h4><hr>
 
+<!--
+
+<p>[Contact Information Hidden]</p>
+
 <p>Address: P. O. Box 1125 – 30100, Eldoret-Kenya</p>
 
 <p>Phone: +254 798 567 790</p>
+
+-->
 
 <p>E-mail: <a href="mailto:plenjo15@gmail.com">plenjo15@gmail.com</a></p>
 
@@ -173,6 +179,8 @@ layout: default
 <p>+254 705 357 406</p>
 
 <p><a href="mailto:edwin.edwink.kabeyi@gmail.com">edwin.edwink.kabeyi@gmail.com</a></p>
+
+<br>
 
 <p>2. Mr. Walter</p>
 
