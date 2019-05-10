@@ -118,21 +118,27 @@ layout: default
 
 <h4>LANGUAGES</h4><hr>
 
-<table cellspacing="0" cellpadding="8" ><colgroup><col ><col ><col ></colgroup>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><p>Speaking</p></th>
+<th><p>Writing</p></th>
+</tr>
+
+</thead>
 <tbody>
-<tr ><td valign="top" ></td>
-<td valign="top" ><p>Speaking</p></td>
-<td valign="top" ><p>Writing</p></td>
+
+<tr>
+<td><p>English</p></td>
+<td><p>Excellent</p></td>
+<td><p>Excellent</p></td>
 </tr>
 
-<tr ><td valign="top" ><p>English</p></td>
-<td valign="top" ><p>Excellent</p></td>
-<td valign="top" ><p>Excellent</p></td>
-</tr>
-
-<tr ><td valign="top" ><p>Kiswahili</p></td>
-<td valign="top" ><p>Very Good</p></td>
-<td valign="top" ><p>Very Good</p></td>
+<tr>
+<td><p>Kiswahili</p></td>
+<td><p>Very Good</p></td>
+<td><p>Very Good</p></td>
 </tr>
 
 </tbody>
