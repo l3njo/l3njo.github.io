@@ -185,3 +185,17 @@ layout: default
 <p>Kenya.</p>
 
 <p><a href="mailto:walter@emobilis.ac.ke">walter@emobilis.ac.ke</a></p>
+
+<div>
+
+<a class="btn bg-blue" href="#">
+  <span class="octicon-file"></span>
+  Download
+</a> 
+
+<a class="btn bg-red" href="#">
+  <span class="octicon-file-pdf"></span>
+  Download
+</a> 
+
+</div>
