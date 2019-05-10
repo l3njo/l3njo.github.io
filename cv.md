@@ -130,15 +130,15 @@ layout: default
 <tbody>
 
 <tr>
-<td><p>English</p></td>
-<td><p>Excellent</p></td>
-<td><p>Excellent</p></td>
+<td class="p-responsive"><p>English</p></td>
+<td class="p-responsive"><p>Excellent</p></td>
+<td class="p-responsive"><p>Excellent</p></td>
 </tr>
 
 <tr>
-<td><p>Kiswahili</p></td>
-<td><p>Very Good</p></td>
-<td><p>Very Good</p></td>
+<td class="p-responsive"><p>Kiswahili</p></td>
+<td class="p-responsive"><p>Very Good</p></td>
+<td class="p-responsive"><p>Very Good</p></td>
 </tr>
 
 </tbody>
