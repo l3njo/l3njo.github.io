@@ -189,12 +189,12 @@ layout: default
 <div>
 
 <a class="btn bg-blue" href="#">
-  <span class="octicon octicon-file-pdf"></span>
+  <i class="fas fa-file-word"></i>
   Download
 </a> 
 
 <a class="btn bg-red" href="#">
-  <span class="octicon octicon-file-pdf"></span>
+  <i class="fas fa-file-pdf"></i>
   Download
 </a> 
 
