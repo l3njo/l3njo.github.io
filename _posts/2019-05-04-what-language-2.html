@@ -1,0 +1,38 @@
+---
+title: "What programming language to use for: Mobile Development"
+---
+Previously published on <a target="_blank" rel="noopener" href="http://kadhalika.tech.blog/2019/05/04/which-programming-languages-to-use-part-2-mobile-development/">TechNaKadhalika</a>
+<br><br>
+
+<p>This article picks up from <a target="_blank" rel="noopener" href="https://l3njo.github.io/2019/02/09/what-language-1/">this previous one on web development</a>. As I will emphasize once again, this is not a ranking of programming languages, but rather more of a starting point for a complete beginner.</p>
+<h4>The Options</h4>
+<p>With <a target="_blank" rel="noopener" href="https://www.engadget.com/2019/01/18/microsoft-windows-10-mobile-support-ending/">Microsoft dropping support for their Windows Phone OS</a>, that leaves only two major mobile Operating Systems in the field; Google's Android OS and Apple's iOS. That is, until <a target="_blank" rel="noopener" href="https://www.digitaltrends.com/mobile/google-fuchsia-os-news/">Google unveils Fuschia OS</a> and <a target="_blank" rel="noopener" href="https://www.businessinsider.com/huawei-has-developed-android-windows-os-replacements-2019-3?IR=T">Huawei unveils their unnamed "Plan B" OS</a>. This article will focus on two broad approaches to mobile app development;</p>
+<ol>
+	<li>Native development - targeting a single platform.</li>
+	<li>Hybrid development - targeting multiple platforms at once.</li>
+</ol>
+<h4>Native Development</h4>
+
+<p>In Android app development, the most popular language is, without a doubt, <strong>Java</strong>. Large parts of the Android OS are written in Java and its APIs are designed to be called primarily from Java. It is possible to develop Android apps in <strong>C/C++</strong> as well, using the Native Development Kit. However, this is not something Google promotes. According to Google;</p>
+
+<blockquote>The NDK will not benefit most apps. As a developer, you need to balance its benefits against its drawbacks.<cite> Google Inc. on NDK </cite></blockquote>
+
+<p><strong>Kotlin</strong> is an upcoming open-source language that is 100% interoperable with Java. It is maintained by JetBrains, the firm behind the IntelliJ platform that powers Android Studio. Google introduced <a href="https://www.xda-developers.com/google-support-kotlin-android-apps/">Kotlin first-class support</a> during Google I/O 2017, making it an official Android app development language.</p>
+
+<p>iOS apps, on the other hand, are developed in two main languages. <strong>Objective-C</strong> was the first official language supported by Apple for application development. It's structure highly resembles C, but with features from Object Oriented Programming. However, Apple generally prefer that developers use the more recent <strong>Swift</strong> programming language, describing it as;</p>
+
+<blockquote> Objective-C without the C.<cite> Apple Inc. on Swift </cite></blockquote>
+
+<h4>Hybrid Development</h4>
+
+<p>There are numerous frameworks that can be used to develop multi-platform apps. As mentioning all of them would require a website of its own, I will only cover the main ones here.</p>
+
+<p>It is only fitting that <strong>Apache Cordova</strong> opens this list, seeing how many of the tools on this list are based on its build process. The apps are built using HTML, CSS and JavaScript then bundled into one client-side package. The open source project has received contributions from the likes of BlackBerry, Google, IBM, Intel and Microsoft.</p>
+<p><strong>Adobe PhoneGap</strong>, originally the basis for Cordova, is now a standalone product, albeit still powered by Cordova. PhoneGap adds a GUI build system to the command line messiness of Apache Cordova.</p>
+<p><strong>Xamarin</strong>, now owned by Microsoft, has for a long time been a platform used to develop multi-platform applications in C#. Microsoft acquired Xamarin in an attempt to move away from the Windows-only .NET framework.</p>
+<p>The <strong>Ionic</strong> framework is also based on Apache Cordova, but has Angular at its core. Ionic allows web developers to develop mobile applications with familiar languages; JavaScript and TypeScript.</p>
+<p><strong>React Native</strong> is maintained by Facebook and based on the React framework. React Native is battle-tested - it is the framework behind the Facebook and Instagram apps - and receives frequent updates from Facebook engineers.</p>
+<p>If you haven't heard about <strong>Flutter</strong>, you must have your head buried in the sand somewhere. Maintained by Google and based on Google's own JavaScript-killer Dart, this is a framework that is rapidly gaining popularity.</p>
+<p>JetBrains still manages to get a word in edgewise with <strong>Kotlin/Native</strong> which is built on top of their succesful Kotlin language. Kotlin/Native compiles code directly into native binaries that can run without a virtual machine.</p>
+
+<p>NOTE: I am fully aware that I may have left out some languages that can be used for mobile app development (say Perl, PHP, Python, Ruby and Shell via <a target="_blank" rel="noopener" href="https://github.com/damonkohler/sl4a">SL4A</a>). This is because I intended this article to be a view of the mobile app development field from a beginner's standpoint.</p>
